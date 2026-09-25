@@ -11,5 +11,6 @@ This repository only hosts the download files. Get Tilt Wheel at **[thedivinerhy
 | [TiltWheel-Setup.exe](https://github.com/divinerhythm2025-ai/tilt-wheel/releases/latest/download/TiltWheel-Setup.exe) | Windows 10/11 PC app |
 | [TiltWheel.apk](https://github.com/divinerhythm2025-ai/tilt-wheel/releases/latest/download/TiltWheel.apk) | Android app (Android 8+) |
 | [Quick Start guide](https://github.com/divinerhythm2025-ai/tilt-wheel/releases/latest/download/Tilt-Wheel-Quick-Start.html) | Setup steps |
+| [How-to-Connect.txt](https://github.com/divinerhythm2025-ai/tilt-wheel/releases/latest/download/How-to-Connect.txt) | Connect with Wi-Fi, Bluetooth or USB |
 
 iPhone version coming soon. PlayStation / Xbox consoles are not supported.
